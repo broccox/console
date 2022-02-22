@@ -1,8 +1,8 @@
 {
-  "name": "webman/console",
+  "name": "broccox/webman-console",
   "type": "library",
   "keywords": [
-    "webman console"
+    "broccox webman console"
   ],
   "homepage": "http://www.workerman.net",
   "license": "MIT",
